@@ -1,4 +1,5 @@
-
+server:
+  port: 9094
 
 eureka:
   client:
